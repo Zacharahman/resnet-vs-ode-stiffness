@@ -1,0 +1,10 @@
+torch>=2.0.0
+torchdiffeq>=0.2.3
+numpy
+matplotlib
+seaborn
+scipy
+pandas
+tqdm
+jupyterlab 
+scikit-learn

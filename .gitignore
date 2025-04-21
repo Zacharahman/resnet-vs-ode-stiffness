@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+*.ipynb_checkpoints
+
+# Virtual Environment
+resnet-env/
+
+# Data
+*.npz
+results/
